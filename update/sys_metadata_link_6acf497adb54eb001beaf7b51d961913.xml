@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a56040a2db506f0049565d4e5e9619f5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_emp_recog_badge">
+    <x_snc_emp_recog_badge action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Callie Leboeuf">ba82abf03710200044e0bfc8bcbe5d1a</assigned_to>
+        <assignment_group display_value="HR Admin" name="HR Admin">723aa84f5ba02200502f6ede91f91aea</assignment_group>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at>2018-09-05 13:50:50</closed_at>
+        <closed_by display_value="Chuck Tomasi">f6366816db40270049565d4e5e961926</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Users good at parallel parking</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <icon>64083ba2db90eb001beaf7b51d961906</icon>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>TASK0021041</number>
+        <opened_at>2018-09-04 23:18:24</opened_at>
+        <opened_by display_value="sush chan">c5bafd0bdb93130049565d4e5e961985</opened_by>
+        <order/>
+        <parent/>
+        <points>20</points>
+        <priority>4</priority>
+        <reassignment_count>1</reassignment_count>
+        <rejection_goto/>
+        <short_description>Parallel Parking</short_description>
+        <skills/>
+        <sla_due/>
+        <state>3</state>
+        <sys_class_name>x_snc_emp_recog_badge</sys_class_name>
+        <sys_created_by>sush.chan</sys_created_by>
+        <sys_created_on>2018-09-04 23:19:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a56040a2db506f0049565d4e5e9619f5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:20:13</sys_updated_on>
+        <time_worked/>
+        <title>Parallel parking</title>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_snc_emp_recog_badge>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>2043</size_bytes>
+        <size_compressed>2058</size_compressed>
+        <state>available</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 17:20:13</sys_created_on>
+        <sys_id>64083ba2db90eb001beaf7b51d961906</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:20:13</sys_updated_on>
+        <table_name>ZZ_YYx_snc_emp_recog_badge</table_name>
+        <table_sys_id>a56040a2db506f0049565d4e5e9619f5</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="64083ba2db90eb001beaf7b51d961906">64083ba2db90eb001beaf7b51d961906</sys_attachment>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 17:20:13</sys_created_on>
+        <sys_id>a4083ba2db90eb001beaf7b51d961906</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2732</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="64083ba2db90eb001beaf7b51d961906">64083ba2db90eb001beaf7b51d961906</sys_attachment>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 17:20:13</sys_created_on>
+        <sys_id>28083ba2db90eb001beaf7b51d961906</sys_id>
+    </sys_attachment_doc>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:43:45</sys_created_on>
+        <sys_id>6acf497adb54eb001beaf7b51d961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parallel parking</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sys_metadata_link_6acf497adb54eb001beaf7b51d961913</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:43:45</sys_updated_on>
+        <tablename>x_snc_emp_recog_badge</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">432e813adb54eb001beaf7b51d961997</block>
+        <comment/>
+        <connected_to>07d0e555-e88d-4058-9657-15e5dd8e0126</connected_to>
+        <display_text/>
+        <flow display_value="Send to Marketing">edcbc1b6db54eb001beaf7b51d9619c7</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>6</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:36:41</sys_created_on>
+        <sys_id>872e813adb54eb001beaf7b51d961998</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_872e813adb54eb001beaf7b51d961998</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:38:36</sys_updated_on>
+        <ui_id>6aa38cce-4d4a-4396-ac4b-590104980a40</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=872e813adb54eb001beaf7b51d961998"/>
+</record_update>

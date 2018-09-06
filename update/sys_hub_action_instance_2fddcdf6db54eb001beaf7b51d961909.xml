@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Wait For Condition">d3f92c160b10030085c083eb37673a7f</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="Wait For Condition">d3f92c160b10030085c083eb37673a7f</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Send to Marketing">edcbc1b6db54eb001beaf7b51d9619c7</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:35:21</sys_created_on>
+        <sys_id>2fddcdf6db54eb001beaf7b51d961909</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sys_hub_action_instance_2fddcdf6db54eb001beaf7b51d961909</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:38:35</sys_updated_on>
+        <ui_id>9c5ae7d1-d7cc-4cad-9f96-edcb7cbc114c</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=2fddcdf6db54eb001beaf7b51d961909"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2fddcdf6db54eb001beaf7b51d961909</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:36:51</sys_created_on>
+        <sys_id>213ec13adb54eb001beaf7b51d961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:36:51</sys_updated_on>
+        <value>state=5</value>
+        <variable display_value="">5ff92c160b10030085c083eb37673ac1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2fddcdf6db54eb001beaf7b51d961909</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:35:21</sys_created_on>
+        <sys_id>abddcdf6db54eb001beaf7b51d96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:35:21</sys_updated_on>
+        <value>x_snc_emp_recog_badge</value>
+        <variable display_value="">36f9a8160b10030085c083eb37673af3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2fddcdf6db54eb001beaf7b51d961909</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:36:51</sys_created_on>
+        <sys_id>e13ec13adb54eb001beaf7b51d961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:36:51</sys_updated_on>
+        <value>x_snc_emp_recog_badge</value>
+        <variable display_value="">1ff92c160b10030085c083eb37673a81</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2fddcdf6db54eb001beaf7b51d961909</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:35:21</sys_created_on>
+        <sys_id>e7ddcdf6db54eb001beaf7b51d96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:35:21</sys_updated_on>
+        <value>state=5</value>
+        <variable display_value="">c7f92c160b10030085c083eb37673a49</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=2fddcdf6db54eb001beaf7b51d961909"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>2fddcdf6db54eb001beaf7b51d961909</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:36:51</sys_created_on>
+        <sys_id>293ec13adb54eb001beaf7b51d96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:36:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>2fddcdf6db54eb001beaf7b51d961909</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:35:21</sys_created_on>
+        <sys_id>efddcdf6db54eb001beaf7b51d96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:35:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>2fddcdf6db54eb001beaf7b51d961909</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:35:21</sys_created_on>
+        <sys_id>67ddcdf6db54eb001beaf7b51d96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:35:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>2fddcdf6db54eb001beaf7b51d961909</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:36:51</sys_created_on>
+        <sys_id>ad3ec13adb54eb001beaf7b51d96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:36:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>2fddcdf6db54eb001beaf7b51d961909</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:35:21</sys_created_on>
+        <sys_id>a3ddcdf6db54eb001beaf7b51d96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:35:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>2fddcdf6db54eb001beaf7b51d961909</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:36:51</sys_created_on>
+        <sys_id>e93ec13adb54eb001beaf7b51d96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:36:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

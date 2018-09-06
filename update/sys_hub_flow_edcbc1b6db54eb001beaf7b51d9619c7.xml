@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>send_to_marketing</internal_name>
+        <label_cache>[{"name":"6230d4c7-45fe-4d78-adc4-a36312e93dfe.table_name","label":"6.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"6230d4c7-45fe-4d78-adc4-a36312e93dfe.record","label":"6.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"2d399e05-c811-4583-9b4a-8d2b80ae93da.table_name","label":"5.1➛Badge Table","reference":"x_snc_emp_recog_badge","reference_display":"Badge","type":"table_name","base_type":"table_name"},{"name":"2d399e05-c811-4583-9b4a-8d2b80ae93da.record","label":"5.1➛Badge Record","reference":"x_snc_emp_recog_badge","reference_display":"Badge","type":"reference","base_type":"reference"},{"name":"b3291f91-79a6-4d8d-87a3-1076a5dd3f7e.record","label":"1➛Badge Record","reference":"x_snc_emp_recog_badge","reference_display":"Badge","type":"reference","base_type":"reference"},{"name":"b3291f91-79a6-4d8d-87a3-1076a5dd3f7e.table_name","label":"1➛Badge Table","reference":"x_snc_emp_recog_badge","reference_display":"Badge","type":"table_name","base_type":"table_name"},{"name":"Updated_1.current","label":"Trigger➛Badge Record","reference":"x_snc_emp_recog_badge","reference_display":"Badge","type":"reference","base_type":"reference"},{"name":"abeca2d3-6e5b-40b0-9624-d3dbd98f4263.Record","label":"2➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"abeca2d3-6e5b-40b0-9624-d3dbd98f4263.Table","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"22987e60-cbcd-4b14-b7d9-79e02de2cd42.approval_state","label":"4➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"{{static.ba82abf03710200044e0bfc8bcbe5d1a}}","label":"Callie Leboeuf","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"35117db3-a2de-4fda-abe2-151bf5c43e16.record","label":"3➛Badge Record","reference":"x_snc_emp_recog_badge","reference_display":"Badge","type":"reference","base_type":"reference"},{"name":"35117db3-a2de-4fda-abe2-151bf5c43e16.table_name","label":"3➛Badge Table","reference":"x_snc_emp_recog_badge","reference_display":"Badge","type":"table_name","base_type":"table_name"}]</label_cache>
+        <latest_snapshot>0a9ecd36db1c6f0049565d4e5e9619a5</latest_snapshot>
+        <master_snapshot>6c1d85f6db54eb001beaf7b51d961963</master_snapshot>
+        <name>Send to Marketing</name>
+        <outputs/>
+        <remote_trigger_id>b41d85f6db54eb001beaf7b51d9619ae</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:26:11</sys_created_on>
+        <sys_id>edcbc1b6db54eb001beaf7b51d9619c7</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Send to Marketing</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sys_hub_flow_edcbc1b6db54eb001beaf7b51d9619c7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:38:34</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=edcbc1b6db54eb001beaf7b51d9619c7"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>edcbc1b6db54eb001beaf7b51d9619c7</id>
+        <name>Send to Marketing</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:26:11</sys_created_on>
+        <sys_id>a9cbc1b6db54eb001beaf7b51d9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Send to Marketing</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_a9cbc1b6db54eb001beaf7b51d9619c8</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:26:11</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

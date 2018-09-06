@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_emp_recog_badge" version="2" view="fulfiller">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Badge - Fulfiller" name="x_snc_emp_recog_badge" related_list="NULL" sys_domain="global" view="0edffb52db506f0049565d4e5e96192b">d05e853adb54eb001beaf7b51d9619dd</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_snc_emp_recog_badge_association.badge</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-09-05 23:37:19</sys_created_on>
+            <sys_id>505e853adb54eb001beaf7b51d9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-09-05 23:37:19</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Badge - Fulfiller" name="x_snc_emp_recog_badge" related_list="NULL" sys_domain="global" view="0edffb52db506f0049565d4e5e96192b">d05e853adb54eb001beaf7b51d9619dd</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-09-05 23:37:19</sys_created_on>
+            <sys_id>985e853adb54eb001beaf7b51d9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-09-05 23:37:19</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Badge - Fulfiller</calculated_name>
+            <filter/>
+            <name>x_snc_emp_recog_badge</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-09-05 23:37:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d05e853adb54eb001beaf7b51d9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Badge - Fulfiller</sys_name>
+            <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_emp_recog_badge_fulfiller</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-09-05 23:37:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Fulfiller" name="fulfiller">0edffb52db506f0049565d4e5e96192b</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

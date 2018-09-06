@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">2921887adb90eb001beaf7b51d961972</grid_canvas>
+        <height>3</height>
+        <portal_widget display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+        <sys_id>f078c9f2db54eb001beaf7b51d96194e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>2921887adb90eb001beaf7b51d961972</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_f078c9f2db54eb001beaf7b51d96194e</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 23:12:04</sys_updated_on>
+        <width>5</width>
+    </sys_grid_canvas_pane>
+</record_update>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2018-09-06 18:32:15">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">a921887adb90eb001beaf7b51d961971</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-05 18:00:10</sys_created_on>
+        <sys_id>2921887adb90eb001beaf7b51d961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sys_grid_canvas_2921887adb90eb001beaf7b51d961972</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-05 18:00:10</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">2921887adb90eb001beaf7b51d961972</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_widget>
+                <posx>0</posx>
+                <posy>3</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>chuck.tomasi</sys_created_by>
+                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                <sys_id>a071c4badb90eb001beaf7b51d9619ab</sys_id>
+                <sys_mod_count>4</sys_mod_count>
+                <sys_name>2921887adb90eb001beaf7b51d961972</sys_name>
+                <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_a071c4badb90eb001beaf7b51d9619ab</sys_update_name>
+                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                <sys_updated_on>2018-09-05 23:12:04</sys_updated_on>
+                <width>12</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">a921887adb90eb001beaf7b51d961971</page>
+                        <summary>User Points</summary>
+                        <sys_created_by>chuck.tomasi</sys_created_by>
+                        <sys_created_on>2018-09-05 18:01:27</sys_created_on>
+                        <sys_id>e871c4badb90eb001beaf7b51d9619a7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>chuck.tomasi</sys_updated_by>
+                        <sys_updated_on>2018-09-05 18:01:28</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">2921887adb90eb001beaf7b51d961972</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_widget>
+                                <posx>0</posx>
+                                <posy>3</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                                <sys_id>a071c4badb90eb001beaf7b51d9619ab</sys_id>
+                                <sys_mod_count>4</sys_mod_count>
+                                <sys_name>2921887adb90eb001beaf7b51d961972</sys_name>
+                                <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_a071c4badb90eb001beaf7b51d9619ab</sys_update_name>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:12:04</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_publish</name>
+                                <portal_section display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                                <sys_id>2871c4badb90eb001beaf7b51d9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 18:01:28</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                                <sys_id>6071c4badb90eb001beaf7b51d9619aa</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 18:01:28</sys_updated_on>
+                                <value>User Points</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                                <sys_id>6471c4badb90eb001beaf7b51d9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 18:01:28</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                                <sys_id>a071c4badb90eb001beaf7b51d9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 18:01:28</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                                <sys_id>a471c4badb90eb001beaf7b51d9619a8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 18:01:28</sys_updated_on>
+                                <value>e8e673dadb106f0049565d4e5e961990</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                                <sys_id>ac71c4badb90eb001beaf7b51d9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 18:01:28</sys_updated_on>
+                                <value>bar</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-09-05 11:01:27">e871c4badb90eb001beaf7b51d9619a7</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 18:01:28</sys_created_on>
+                                <sys_id>e871c4badb90eb001beaf7b51d9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 18:01:28</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">a921887adb90eb001beaf7b51d961971</page>
+                        <summary>Badges Awarded</summary>
+                        <sys_created_by>chuck.tomasi</sys_created_by>
+                        <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                        <sys_id>bc78c9f2db54eb001beaf7b51d961948</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>chuck.tomasi</sys_updated_by>
+                        <sys_updated_on>2018-09-05 23:11:40</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">2921887adb90eb001beaf7b51d961972</grid_canvas>
+                                <height>3</height>
+                                <portal_widget display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                                <sys_id>f078c9f2db54eb001beaf7b51d96194e</sys_id>
+                                <sys_mod_count>3</sys_mod_count>
+                                <sys_name>2921887adb90eb001beaf7b51d961972</sys_name>
+                                <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_f078c9f2db54eb001beaf7b51d96194e</sys_update_name>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:12:04</sys_updated_on>
+                                <width>5</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                                <sys_id>3078c9f2db54eb001beaf7b51d96194b</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:11:40</sys_updated_on>
+                                <value>Badges Awarded</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                                <sys_id>3478c9f2db54eb001beaf7b51d96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:11:40</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                                <sys_id>7078c9f2db54eb001beaf7b51d96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:11:40</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                                <sys_id>7c78c9f2db54eb001beaf7b51d96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:11:40</sys_updated_on>
+                                <value>single_score</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                                <sys_id>b878c9f2db54eb001beaf7b51d96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:11:40</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                                <sys_id>f478c9f2db54eb001beaf7b51d961949</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:11:40</sys_updated_on>
+                                <value>9b68c9f2db54eb001beaf7b51d961922</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_publish</name>
+                                <portal_section display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_section>
+                                <sys_created_by>chuck.tomasi</sys_created_by>
+                                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                                <sys_id>f478c9f2db54eb001beaf7b51d96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                                <sys_updated_on>2018-09-05 23:11:40</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">2921887adb90eb001beaf7b51d961972</grid_canvas>
+                <height>3</height>
+                <portal_widget display_value="Created 2018-09-05 16:11:40">bc78c9f2db54eb001beaf7b51d961948</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>chuck.tomasi</sys_created_by>
+                <sys_created_on>2018-09-05 23:11:40</sys_created_on>
+                <sys_id>f078c9f2db54eb001beaf7b51d96194e</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_name>2921887adb90eb001beaf7b51d961972</sys_name>
+                <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_f078c9f2db54eb001beaf7b51d96194e</sys_update_name>
+                <sys_updated_by>chuck.tomasi</sys_updated_by>
+                <sys_updated_on>2018-09-05 23:12:04</sys_updated_on>
+                <width>5</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>

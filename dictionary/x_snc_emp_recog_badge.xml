@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Badge" max_length="40" name="x_snc_emp_recog_badge" sizeclass="8" type="collection">
+        <element label="Icon" max_length="40" name="icon" type="user_image"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+        <element display="true" label="Title" mandatory="true" max_length="160" name="title" type="string"/>
+    </element>
+</database>
