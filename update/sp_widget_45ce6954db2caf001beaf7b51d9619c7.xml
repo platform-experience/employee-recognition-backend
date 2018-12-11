@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>badges</id>
+        <internal>false</internal>
+        <link/>
+        <name>Badges</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {
+	data.badges = [];
+	data.points = 0;
+	var userID = $sp.getParameter("sys_id");
+	data.is_current_user = userID === gs.getUserID();
+	data.cat_item_id = gs.isMobile() ? "7da277f8dbe023401beaf7b51d9619f6" : "3de213f0dba023401beaf7b51d9619bf"
+
+	var profileGR = new GlideRecord("sn_hr_core_profile");
+	profileGR.addQuery("user.sys_id",userID);
+	profileGR.query();
+
+	if(profileGR.next()){
+		data.profile_id = profileGR.sys_id.toString();
+		var badgeUserGR = new GlideRecord("x_snc_emp_recog_badge_association");
+		badgeUserGR.addQuery("user", data.profile_id);
+		badgeUserGR.query();
+		data.encoded_query = badgeUserGR.getEncodedQuery();
+		while(badgeUserGR.next()){
+			var title = badgeUserGR.badge.title.toString();
+			var badgeID = badgeUserGR.badge.sys_id.toString();
+			var pointVal = parseInt(badgeUserGR.points.toString());
+			var badgeIndex = false;
+			for(var i = 0; i != data.badges.length; i++){
+				var badgeData = data.badges[i];
+				if(badgeData.info.sys_id == badgeID){
+					badgeIndex = i;
+					break;
+				}
+			}
+			data.points += pointVal;
+			if(badgeIndex === false){
+				data.badges.push({
+					sys_id : badgeUserGR.sys_id.toString(),
+					count : 1,
+					points : pointVal,
+					info : {
+						sys_id : badgeID,
+						icon : badgeUserGR.badge.icon.getDisplayValue(),
+						title : title,
+						description : badgeUserGR.badge.description.toString()
+					}
+				});
+			}
+			else{
+				data.badges[badgeIndex].count++;
+				data.badges[badgeIndex].points += parseInt(badgeUserGR.points.toString());
+			}
+		}
+	}
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>darrin.achtman</sys_created_by>
+        <sys_created_on>2018-09-10 18:01:17</sys_created_on>
+        <sys_id>45ce6954db2caf001beaf7b51d9619c7</sys_id>
+        <sys_mod_count>91</sys_mod_count>
+        <sys_name>Badges</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sp_widget_45ce6954db2caf001beaf7b51d9619c7</sys_update_name>
+        <sys_updated_by>darrin.achtman</sys_updated_by>
+        <sys_updated_on>2018-09-12 16:53:13</sys_updated_on>
+        <template><![CDATA[<div class="panel panel-primary b">
+  <div class="panel-heading">
+    <h1 class="h4 panel-title ng-binding">
+      <span class="m-r-sm fa fa-{{::options.glyph}}" aria-hidden="true" ng-if="options.glyph.length" name="group"></span>
+      <span>{{::options.title}}</span>
+      <span class="pull-right">{{::data.points}}pts</span>
+    </h1>
+  </div>
+  <div class="panel-body transclude">
+    <div class="row">
+      <div class="col-xs-2 col-sm-2 col-md-2" ng-repeat="badge in c.data.badges | orderBy:'badge.info.title'">
+        <span class="label label-primary pull-right hidden-xs">{{::badge.count}}</span>
+        <img title="{{::badge.info.title}}" src="{{::badge.info.icon}}" width="150" height="150" class="img-responsive img-rounded"/>
+      </div>
+    </div>
+    <div class="row" ng-if="!data.is_current_user">
+      <div class="col-md-12">
+        <a class="pull-right" ng-href="/hrportalv2?id=hrj_sc_cat_item&sys_id={{::c.data.cat_item_id}}&sysparm_category=87c78de49f331200d9011977677fcfa3&user_id={{::c.data.profile_id}}">Give a new Badge</a>
+      </div>
+    </div>
+  </div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

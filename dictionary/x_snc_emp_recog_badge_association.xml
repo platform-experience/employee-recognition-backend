@@ -2,7 +2,8 @@
     <element label="Badge Association" max_length="40" name="x_snc_emp_recog_badge_association" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Pick a badge" mandatory="true" max_length="32" name="badge" reference="x_snc_emp_recog_badge" reference_qual="state=3^EQ" reference_qual_condition="state=3^EQ" type="reference"/>
-        <element label="Who do you want to recognize?" mandatory="true" max_length="32" name="user" reference="sn_hr_core_profile" type="reference"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+        <element label="User" mandatory="true" max_length="32" name="user" reference="sn_hr_core_profile" type="reference"/>
         <index name="index">
             <element name="badge"/>
         </index>

@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="user" table="x_snc_emp_recog_badge_association">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="badge" table="x_snc_emp_recog_badge_points_lookup">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>User</column_label>
+        <column_label>Badge</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,20 +22,20 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>user</element>
+        <element>badge</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <max_length>32</max_length>
-        <name>x_snc_emp_recog_badge_association</name>
+        <name>x_snc_emp_recog_badge_points_lookup</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sn_hr_core_profile">sn_hr_core_profile</reference>
+        <reference display_value="" name="x_snc_emp_recog_badge">x_snc_emp_recog_badge</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -51,17 +46,17 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>sush.chan</sys_created_by>
-        <sys_created_on>2018-09-04 20:36:28</sys_created_on>
-        <sys_id>d7dad71adbdc2f0049565d4e5e96194a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>User</sys_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-07 13:46:24</sys_created_on>
+        <sys_id>f73a919fdb5caf0049565d4e5e961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Badge</sys_name>
         <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_emp_recog_badge_association_user</sys_update_name>
-        <sys_updated_by>darrin.achtman</sys_updated_by>
-        <sys_updated_on>2018-09-12 14:41:03</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_emp_recog_badge_points_lookup_badge</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-07 13:46:24</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

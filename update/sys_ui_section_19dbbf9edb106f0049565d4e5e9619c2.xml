@@ -3,28 +3,28 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>title</element>
             <position>0</position>
-            <sys_created_by>chuck.tomasi</sys_created_by>
-            <sys_created_on>2018-09-05 17:16:06</sys_created_on>
-            <sys_id>c4173f62db90eb001beaf7b51d9619a8</sys_id>
+            <sys_created_by>darrin.achtman</sys_created_by>
+            <sys_created_on>2018-09-11 17:41:44</sys_created_on>
+            <sys_id>127676a0db28ef001beaf7b51d9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_emp_recog_badge" sys_domain="global" view="Default view">19dbbf9edb106f0049565d4e5e9619c2</sys_ui_section>
-            <sys_updated_by>chuck.tomasi</sys_updated_by>
-            <sys_updated_on>2018-09-05 17:16:06</sys_updated_on>
+            <sys_updated_by>darrin.achtman</sys_updated_by>
+            <sys_updated_on>2018-09-11 17:41:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>1</position>
-            <sys_created_by>chuck.tomasi</sys_created_by>
-            <sys_created_on>2018-09-05 17:16:06</sys_created_on>
-            <sys_id>48173f62db90eb001beaf7b51d9619a8</sys_id>
+            <sys_created_by>darrin.achtman</sys_created_by>
+            <sys_created_on>2018-09-11 17:41:44</sys_created_on>
+            <sys_id>967676a0db28ef001beaf7b51d9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_emp_recog_badge" sys_domain="global" view="Default view">19dbbf9edb106f0049565d4e5e9619c2</sys_ui_section>
-            <sys_updated_by>chuck.tomasi</sys_updated_by>
-            <sys_updated_on>2018-09-05 17:16:06</sys_updated_on>
+            <sys_updated_by>darrin.achtman</sys_updated_by>
+            <sys_updated_on>2018-09-11 17:41:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

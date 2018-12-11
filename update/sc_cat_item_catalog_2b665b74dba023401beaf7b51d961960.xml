@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Recognize a co-worker">3de213f0dba023401beaf7b51d9619bf</sc_cat_item>
+        <sc_catalog display_value="Human Resources Catalog">7b0370019f22120047a2d126c42e7075</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>darrin.achtman</sys_created_by>
+        <sys_created_on>2018-09-12 14:39:51</sys_created_on>
+        <sys_id>2b665b74dba023401beaf7b51d961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resources Catalog.Recognize a co-worker</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2b665b74dba023401beaf7b51d961960</sys_update_name>
+        <sys_updated_by>darrin.achtman</sys_updated_by>
+        <sys_updated_on>2018-09-12 14:39:51</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

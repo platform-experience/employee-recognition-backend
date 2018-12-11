@@ -89,19 +89,19 @@
         <show_zero>false</show_zero>
         <source_type>table</source_type>
         <start_time/>
-        <sumfield>badge.points</sumfield>
+        <sumfield>points</sumfield>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>sush.chan</sys_created_by>
         <sys_created_on>2018-09-04 22:36:49</sys_created_on>
         <sys_id>e8e673dadb106f0049565d4e5e961990</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Leaderboard</sys_name>
         <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
         <sys_update_name>sys_report_e8e673dadb106f0049565d4e5e961990</sys_update_name>
         <sys_updated_by>chuck.tomasi</sys_updated_by>
-        <sys_updated_on>2018-09-05 18:02:02</sys_updated_on>
+        <sys_updated_on>2018-09-07 13:51:20</sys_updated_on>
         <table>x_snc_emp_recog_badge_association</table>
         <title>Leaderboard</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="Badge Points Lookup" max_length="40" name="x_snc_emp_recog_badge_points_lookup" type="collection">
+        <element label="Badge" max_length="32" name="badge" reference="x_snc_emp_recog_badge" type="reference"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+        <index name="index">
+            <element name="badge"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Badge Points Lookup</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Badge Points Lookup</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">38b51807dbd313001beaf7b51d9619ed</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-07 13:44:33</sys_created_on>
+        <sys_id>68d91d5fdb5caf0049565d4e5e96190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Badge Points Lookup</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sys_wizard_answer_68d91d5fdb5caf0049565d4e5e96190c</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-07 13:44:33</sys_updated_on>
+        <table/>
+        <target_url>x_snc_emp_recog_badge_points_lookup.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

@@ -9,33 +9,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>NEW</link_type>
+        <link_type>SEPARATOR</link_type>
         <map_page/>
-        <mobile_title>Recognize an employee</mobile_title>
+        <mobile_title>Administration</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_snc_emp_recog_badge_association</name>
-        <order>100</order>
+        <name/>
+        <order>10000</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>chuck.tomasi</sys_created_by>
-        <sys_created_on>2018-09-05 17:33:43</sys_created_on>
+        <sys_created_on>2018-09-07 13:52:59</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>35eaf766db90eb001beaf7b51d96197e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Recognize an employee</sys_name>
+        <sys_id>8eab55dfdb5caf0049565d4e5e961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administration</sys_name>
         <sys_overrides/>
         <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
-        <sys_update_name>sys_app_module_35eaf766db90eb001beaf7b51d96197e</sys_update_name>
+        <sys_update_name>sys_app_module_8eab55dfdb5caf0049565d4e5e961972</sys_update_name>
         <sys_updated_by>chuck.tomasi</sys_updated_by>
-        <sys_updated_on>2018-09-14 17:10:35</sys_updated_on>
+        <sys_updated_on>2018-09-07 13:52:59</sys_updated_on>
         <timeline_page/>
-        <title>Recognize an employee</title>
+        <title>Administration</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match">
+    <dl_definition_rel_match action="INSERT_OR_UPDATE">
+        <dl_definition display_value="Badge points rules">458a559fdb5caf0049565d4e5e9619ed</dl_definition>
+        <exact_match>false</exact_match>
+        <matcher_table>x_snc_emp_recog_badge_points_lookup</matcher_table>
+        <matcher_table_field>badge</matcher_table_field>
+        <source_table>x_snc_emp_recog_badge_association</source_table>
+        <source_table_field>badge</source_table_field>
+        <sys_class_name>dl_definition_rel_match</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-07 13:48:40</sys_created_on>
+        <sys_id>43bad59fdb5caf0049565d4e5e9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>badge</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>dl_definition_rel_match_43bad59fdb5caf0049565d4e5e9619f3</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-07 13:48:40</sys_updated_on>
+    </dl_definition_rel_match>
+</record_update>

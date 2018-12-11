@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_mobile</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Employee Relations">87c78de49f331200d9011977677fcfa3</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p><strong>If you do not see the badge you want, use the <a href="/hrportalv2?id&#61;hrj_sc_cat_item&amp;sys_id&#61;539797b4dba023401beaf7b51d96197e&amp;sysparm_category&#61;87c78de49f331200d9011977677fcfa3" rel="nofollow">Create a new badge</a></strong></p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Recognize a co-worker</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=7da277f8dbe023401beaf7b51d9619f6&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>catalog_home</redirect_url>
+        <roles/>
+        <sc_catalogs>7b0370019f22120047a2d126c42e7075</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[producer.portal_redirect = "?id=hrj_dashboard";]]></script>
+        <short_description>Copy of Pick a person to recognize and an achievement for which they deserve.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>darrin.achtman</sys_created_by>
+        <sys_created_on>2018-09-12 16:43:09</sys_created_on>
+        <sys_id>7da277f8dbe023401beaf7b51d9619f6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Recognize a co-worker</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
+        <sys_update_name>sc_cat_item_producer_7da277f8dbe023401beaf7b51d9619f6</sys_update_name>
+        <sys_updated_by>darrin.achtman</sys_updated_by>
+        <sys_updated_on>2018-09-12 16:43:50</sys_updated_on>
+        <table_name>x_snc_emp_recog_badge_association</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=7da277f8dbe023401beaf7b51d9619f6"/>
+    <fx_price action="delete_multiple" query="id=7da277f8dbe023401beaf7b51d9619f6"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>7da277f8dbe023401beaf7b51d9619f6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>darrin.achtman</sys_created_by>
+        <sys_created_on>2018-09-12 16:43:09</sys_created_on>
+        <sys_id>f9a277f8dbe023401beaf7b51d9619f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>darrin.achtman</sys_updated_by>
+        <sys_updated_on>2018-09-12 16:43:10</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>7da277f8dbe023401beaf7b51d9619f6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>darrin.achtman</sys_created_by>
+        <sys_created_on>2018-09-12 16:43:09</sys_created_on>
+        <sys_id>79a2b7f8dbe023401beaf7b51d9619e5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>darrin.achtman</sys_updated_by>
+        <sys_updated_on>2018-09-12 16:43:10</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
