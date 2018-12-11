@@ -6,7 +6,11 @@
   var c = this;
 }]]></client_script>
         <controller_as>c</controller_as>
-        <css/>
+        <css>.h4.panel-title{&#13;
+  span{&#13;
+  display:inline-block;&#13;
+  }&#13;
+}</css>
         <data_table>sp_instance</data_table>
         <demo_data/>
         <description/>
@@ -75,14 +79,14 @@
         <sys_created_by>darrin.achtman</sys_created_by>
         <sys_created_on>2018-09-10 18:01:17</sys_created_on>
         <sys_id>45ce6954db2caf001beaf7b51d9619c7</sys_id>
-        <sys_mod_count>91</sys_mod_count>
+        <sys_mod_count>93</sys_mod_count>
         <sys_name>Badges</sys_name>
         <sys_package display_value="Employee Recognition" source="x_snc_emp_recog">0832e21adb5c2f0049565d4e5e961925</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employee Recognition">0832e21adb5c2f0049565d4e5e961925</sys_scope>
         <sys_update_name>sp_widget_45ce6954db2caf001beaf7b51d9619c7</sys_update_name>
-        <sys_updated_by>darrin.achtman</sys_updated_by>
-        <sys_updated_on>2018-09-12 16:53:13</sys_updated_on>
+        <sys_updated_by>sush.chan</sys_updated_by>
+        <sys_updated_on>2018-12-11 18:25:41</sys_updated_on>
         <template><![CDATA[<div class="panel panel-primary b">
   <div class="panel-heading">
     <h1 class="h4 panel-title ng-binding">
@@ -100,7 +104,7 @@
     </div>
     <div class="row" ng-if="!data.is_current_user">
       <div class="col-md-12">
-        <a class="pull-right" ng-href="/hrportalv2?id=hrj_sc_cat_item&sys_id={{::c.data.cat_item_id}}&sysparm_category=87c78de49f331200d9011977677fcfa3&user_id={{::c.data.profile_id}}">Give a new Badge</a>
+        <a class="pull-right" ng-href="/sp?id=sc_cat_item&sys_id={{::c.data.cat_item_id}}&sysparm_category=87c78de49f331200d9011977677fcfa3&user_id={{::c.data.profile_id}}">Give a new Badge</a>
       </div>
     </div>
   </div>
